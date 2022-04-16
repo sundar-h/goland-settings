@@ -1,0 +1,18 @@
+<application>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1650102323874" />
+  </component>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="foldOriginal" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
+    <option name="keepFormat" value="true" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="takeWordWhenDialogOpens" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
