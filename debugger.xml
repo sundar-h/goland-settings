@@ -3,6 +3,11 @@
     <data-views />
     <general />
     <debuggers>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/GoLand2022.1/intellij-rust/lldb" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
