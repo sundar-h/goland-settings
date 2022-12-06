@@ -4,7 +4,7 @@
     <property name="created">2022-04-22T11:17:45</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2021.3.4.0.0</property>
-    <property name="modified">2022-08-22T22:13:41</property>
+    <property name="modified">2022-12-06T14:21:58</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -70,7 +70,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80ffea" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80ffea" />
     <option name="FILESTATUS_OBSOLETE" value="f89580" />
-    <option name="FILESTATUS_RENAMED" value="7c7c" />
+    <option name="FILESTATUS_RENAMED" value="268bd2" />
     <option name="FILESTATUS_SUPPRESSED" value="6272a4" />
     <option name="FILESTATUS_SWITCHED" value="f89580" />
     <option name="FILESTATUS_UNKNOWN" value="9580ff" />
